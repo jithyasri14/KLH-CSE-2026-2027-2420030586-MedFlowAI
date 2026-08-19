@@ -8,17 +8,17 @@
 | Institution | KLH |
 | Branch | CSE |
 | Academic Year | 2026-2027 |
-| Team / Repository ID | 2420030474 |
-| Required repository | `KLH-CSE-2026-2027-2420030474-MedFlowAI` |
+| Team / Repository ID | 2420030586 |
+| Required repository | `KLH-CSE-2026-2027-2420030586-MedFlowAI` |
 | Current phase | Phase 1 - Requirements and Architecture |
 
 ### Team
 
 | Member | University ID |
 |---|---|
-| Doma Akshaya | 2420030474 |
-| Jithyasri | To Be Provided |
-| Sreeja | To Be Provided |
+| Jithyasri Sammeta | 2420030586 |
+|  Doma Akshaya | 2420030474 |
+| Sreeja | 2420030267 |
 
 **Supervisor:** To Be Confirmed
 
